@@ -11,9 +11,9 @@ Two main optimizations were done:
 
 The main optimization that were made:
 
-..* Minimized the images.
-..* asynchronized or inlined all render blocking files.
-..* Deleted all spaces in index.html.
+* Minimized the images.
+* asynchronized or inlined all render blocking files.
+* Deleted all spaces in index.html.
 
 Recieves a PageSpeed Insights score of 94/100 for mobile phones.
 
