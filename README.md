@@ -32,10 +32,13 @@ Recieves a PageSpeed Insights score of 94/100 for mobile phones.
    only from the first element as percentage.
 
 3. Inside updatePositions and 'DOMContentLoaded' event listener:
+   
    ..* Used 25 dom elements for the small pizzas moving 
       horizontally instead of 200.
+
    ..* Updated the updatePosition function so that it took an array diffArray 
       which was precalculated in order to skip the % calculations.
+
    ..* The dom  elements of class mover calculated
       with function getElementsByClassName instead of 
       document.querySelectorAll.
