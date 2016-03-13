@@ -42,12 +42,10 @@ Recieves a PageSpeed Insights score of 94/100 for mobile phones.
 
 4. CCS speedups:
    Added to the mover class in style.css:
+   ```
    translate:transformZ(0);
    will-change:transform;
-
-
-
-
+   ```
 ##How to run on computer: 
 
 1. Open the index.html file in the project folder in a web browser to run the website.
@@ -59,13 +57,13 @@ Recieves a PageSpeed Insights score of 94/100 for mobile phones.
 2. Install python.
 3. Open a shell (on linux and mac) or command line on windows.
 4. Open the project folder in the shell and write the command:
-
-     `python -m SimpleHTTPServer 8080`
-
+```
+python -m SimpleHTTPServer 8080`
+```
 5. Open the project folder in another shell and write the command:
-
-                      `ngrok http 8080`
-                      
+```
+ngrok http 8080
+```
 6. The screen that opens contains the URL.
 
 ##How to load on PageSpeed insights:
