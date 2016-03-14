@@ -1,4 +1,4 @@
-9th of December 2015
+10th of December 2015
 ---------------------------------------------------------------------------------------
 This is a project done by Unnar Thor Bachmann in the Udacity's front-developing course.
 This project involves optimizing the web page in the folder.
